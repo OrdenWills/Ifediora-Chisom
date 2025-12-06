@@ -104,6 +104,11 @@ nav {
     color: #fff;
     border: none;
 }
+.nav-links .btn-nav:hover {
+    transform: translateY(-3px);
+    background: rgba(255, 140, 66, 0.8);
+    color: #fff;
+}
 
 /* --- HERO SECTION --- */
 .hero-section {
